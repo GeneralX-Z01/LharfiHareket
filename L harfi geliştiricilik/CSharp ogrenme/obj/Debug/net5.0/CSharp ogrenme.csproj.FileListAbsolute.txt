@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\bin\Debug\net5.0\CSharp ogrenme.exe
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\bin\Debug\net5.0\CSharp ogrenme.deps.json
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\bin\Debug\net5.0\CSharp ogrenme.runtimeconfig.json
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\bin\Debug\net5.0\CSharp ogrenme.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\bin\Debug\net5.0\CSharp ogrenme.dll
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\bin\Debug\net5.0\ref\CSharp ogrenme.dll
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\bin\Debug\net5.0\CSharp ogrenme.pdb
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.dll
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\ref\CSharp ogrenme.dll
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.pdb
+C:\Users\user\source\repos\CSharp ogrenme\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.genruntimeconfig.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\L harfi geliştiricilik\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\L harfi geliştiricilik\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\L harfi geliştiricilik\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\L harfi geliştiricilik\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.AssemblyInfo.cs
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\L harfi geliştiricilik\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\L harfi geliştiricilik\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.dll
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\L harfi geliştiricilik\CSharp ogrenme\obj\Debug\net5.0\ref\CSharp ogrenme.dll
+C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\L harfi geliştiricilik\CSharp ogrenme\obj\Debug\net5.0\CSharp ogrenme.pdb

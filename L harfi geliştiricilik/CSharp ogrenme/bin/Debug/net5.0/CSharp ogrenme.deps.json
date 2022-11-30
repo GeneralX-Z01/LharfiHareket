@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSharp ogrenme/1.0.0": {
+        "runtime": {
+          "CSharp ogrenme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharp ogrenme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

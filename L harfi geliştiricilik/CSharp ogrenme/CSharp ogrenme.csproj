@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CSharp_ogrenme</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\user\Desktop\ALL\SAKARYA ÜNİVERSİTESİ HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
